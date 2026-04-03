@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: Arial;
     text-align: center;
@@ -10,4 +11,14 @@ h1 {
 
 p {
     font-size: 20px;
+=======
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #2c3e50;
+>>>>>>> bd403df33f71c2a44b905bb2e3ba498e0d2030b5
 }
